@@ -17,6 +17,10 @@ package j08_클래스;
  * Tesla, model13, 레드 - setColor(그린)
  * 
  */
+// 
+// 클래스명이랑 이름이 같다.
+// 
+
 
 public class CarMain {
 

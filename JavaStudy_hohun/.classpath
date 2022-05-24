@@ -5,6 +5,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="j09_접근지정자/" kind="src" path="src"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
