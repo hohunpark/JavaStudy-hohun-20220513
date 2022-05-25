@@ -1,4 +1,4 @@
-package Teacher;
+package j09_접근지정.Teacher;
 
 public class Teacher {
 

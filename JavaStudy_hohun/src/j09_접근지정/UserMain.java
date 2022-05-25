@@ -1,7 +1,6 @@
 package j09_접근지정;
 
-import Teacher.Teacher;
-import Teacher.Student;
+import j09_접근지정.Teacher.*;
 
 
 public class UserMain {
