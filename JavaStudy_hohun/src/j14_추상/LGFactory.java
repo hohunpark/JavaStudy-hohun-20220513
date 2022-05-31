@@ -1,6 +1,6 @@
 package j14_추상;
 
-public class LGFactory extends Factory, {
+public class LGFactory extends Factory{
 
 	@Override
 	public void start() {
