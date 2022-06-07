@@ -6,7 +6,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/junil/hohun/workspace/git/JavaStudy-hohun/JavaStudy_hohun/lib/lombok.jar">
+	<classpathentry kind="lib" path="C:/hohun/workspace/git/JavaStudy-hohun-20220513.git/JavaStudy_hohun/lib/lombok.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
